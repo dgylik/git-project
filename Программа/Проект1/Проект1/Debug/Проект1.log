@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\пк\desktop\курсовая 1\программа\проект1\проект1\source.cpp(43): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\пк\desktop\курсовая 1\программа\проект1\проект1\source.cpp(62): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пк\desktop\курсовая 1\программа\проект1\проект1\source.cpp(69): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пк\desktop\курсовая 1\программа\проект1\проект1\source.cpp(76): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пк\desktop\курсовая 1\программа\проект1\проект1\source.cpp(83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Проект1.vcxproj -> C:\Users\ПК\Desktop\Курсовая 1\Программа\Проект1\Debug\Проект1.exe
+  Проект1.vcxproj -> C:\Users\ПК\Desktop\Курсовая 1\Программа\Проект1\Debug\Проект1.pdb (Partial PDB)
